@@ -122,11 +122,13 @@ label[for="bt-menu"] span {
   border: 2px solid var(--very-light-gray);
   font-family: "Karla", sans-serif;
   font-size: 20px;
+  font-weight: 900;
 }
 .btn:hover {
   background: var(--very-light-gray);
   color: var(--primary-dark-color);
   border: 2px solid var(--primary-dark-color);
+  font-weight: 900;
 }
 .first-line,
 .second-line {
